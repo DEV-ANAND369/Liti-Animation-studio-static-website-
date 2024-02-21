@@ -5,11 +5,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 This repository contains the source code for the LITI Animation Studio static website, developed using HTML, CSS, and JavaScript.
+WE HAVE REMOVED THE DOWNLOAD LINK.... WAIT FOR THE NEW
+
+## Preview
+To View The Website On Internet Then Click On This Link: [Click Here](https://devanandop.000webhostapp.com)
 
 ## Usage
 To view the website locally:
-1. Download The File From the following Link: [DownloadNow](https://www.mediafire.com/file/sfbjgznrkza0idh/Animation_Studio.zip/file)
-
+1. Download The File From the following Link: [DownloadNow](#)
+  
 ## Overview
 The static website serves as an online portfolio for LITI Animation Studio, showcasing our projects, services, and contact information.
 
